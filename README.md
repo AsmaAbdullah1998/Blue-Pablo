@@ -14,7 +14,15 @@ And because the launch of this question is general, we will resort to identifyin
 
 
 ### Methods 🦾✨
-* 
+* [Transfer Template](https://github.com/AsmaAbdullah1998/Blue-Pablo/blob/main/Neural%20Style%20Transfer-Template.ipynb)
+> Neural Style Transfer is a process that uses neural networks to apply the artistic style from one image to another. This means that you can take famous artworks and their styles and apply them to your own images
+* * Downloading a model from Tensorflow Model Hub
+* * Preprocessing images for neural style transfer
+* * Applying and visualizing style transfer
+* Output
+# ![generated_img-2](https://user-images.githubusercontent.com/66702376/138371415-3f8f178d-f102-4de3-bdf9-b7cfe616e01b.jpg)
+
+
 
 
 
