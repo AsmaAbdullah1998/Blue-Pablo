@@ -2,8 +2,8 @@
 
 <h1 align="center">Welcome to Blue-Pablo 👋</h1>
 <p align="center">
-  <a href="https://colab.research.google.com/github/nicknochnack/Python-Neural-Style-Transfer/blob/main/Neural%20Style%20Transfer-Template.ipynb#scrollTo=5tJJzttUyJCd">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab method#1"/>
+  <a href="https://github.com/AsmaAbdullah1998/Blue-Pablo/blob/main/Neural%20Style%20Transfer-Template.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab methodA"/>
 </a>
 </p>
 
